@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "new:article": "zenn new:article",
+    "preview": "zenn preview",
+    "list:article": "zenn list:articles"
   },
   "keywords": [],
   "author": "",
